@@ -10,6 +10,7 @@
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+          <img src="https://private-user-images.githubusercontent.com/147022364/443516023-5fa82ccb-71c3-40f6-b8ac-5b49c35e182e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMDM2OTMsIm5iZiI6MTc0NzIwMzM5MywicGF0aCI6Ii8xNDcwMjIzNjQvNDQzNTE2MDIzLTVmYTgyY2NiLTcxYzMtNDBmNi1iOGFjLTViNDljMzVlMTgyZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQwNjE2MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YmNmMzlkZTlmMDEwYjQ3MjBhNTQ5NDZlNzIwM2MxM2MyZmJlNWRiNzc2OTg5MjBlY2MwOTFlYWJlYWQxODhkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pOozhVnAhvodyNAy0BiJXklyLmWobcOAVqHs1lYoOHA"
           </div>
     </div>
     <div style="text-align: left;">
